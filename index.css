@@ -1,0 +1,20 @@
+.div{
+    border: 2px solid rgb(22, 26, 22)
+    
+}
+.p{
+    background-color: rgb(28, 14, 5);
+    border-style: solid solid dotted dotted;
+    border-top: rgb(234, 196, 44);
+    
+    
+}
+.h1{    background-color: maroon;
+    border-style: inset;
+    padding: 200px;
+}
+body{
+    border: 3px solid greenyellow;
+    background-color: aqua;
+
+}
